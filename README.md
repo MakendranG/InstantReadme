@@ -34,13 +34,23 @@ InstantReadme is developed using GitHub Copilot, which provided creative and imp
 
 ---
 
+## How to Use
+
+1. Visit https://instantreadme.glitch.me
+2. Enter a GitHub repository URL (e.g., https://github.com/MakendranG/InstantReadme)
+3. Click "Generate README"
+4. Review the generated content
+5. Use the "Copy" or "Download" buttons as needed
+
+---
+
 ## How to Run InstantReadme
 
 ### Locally
 
 1. **Clone the Repository (GitHub):**
    ```bash
-   git clone https://github.com/MakendranG/InstantReadme.git
+   git clone https://github.com/your-username/InstantReadme.git
    cd InstantReadme
    ```
 
@@ -98,7 +108,7 @@ To ensure your project is accessible on GitHub along with your Glitch version, f
 
 4. **Link to Your GitHub Repository:**
    ```bash
-   git remote add origin https://github.com/MakendranG/InstantReadme.git
+   git remote add origin https://github.com/your-username/InstantReadme.git
    ```
 
 5. **Push Your Code:**
@@ -110,7 +120,7 @@ To ensure your project is accessible on GitHub along with your Glitch version, f
 
 - **Live Site:** https://instantreadme.glitch.me
 - **Glitch Code:** https://glitch.com/edit/#!/instantreadme
-- **GitHub Repository:** https://github.com/MakendranG/InstantReadme
+- **GitHub Repository:** https://github.com/your-username/InstantReadme
 
 ## File Structure
 
