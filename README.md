@@ -40,7 +40,7 @@ InstantReadme is developed using GitHub Copilot, which provided creative and imp
 
 1. **Clone the Repository (GitHub):**
    ```bash
-   git clone https://github.com/your-username/InstantReadme.git
+   git clone https://github.com/MakendranG/InstantReadme.git
    cd InstantReadme
    ```
 
@@ -98,7 +98,7 @@ To ensure your project is accessible on GitHub along with your Glitch version, f
 
 4. **Link to Your GitHub Repository:**
    ```bash
-   git remote add origin https://github.com/your-username/InstantReadme.git
+   git remote add origin https://github.com/MakendranG/InstantReadme.git
    ```
 
 5. **Push Your Code:**
@@ -110,7 +110,7 @@ To ensure your project is accessible on GitHub along with your Glitch version, f
 
 - **Live Site:** https://instantreadme.glitch.me
 - **Glitch Code:** https://glitch.com/edit/#!/instantreadme
-- **GitHub Repository:** https://github.com/your-username/InstantReadme
+- **GitHub Repository:** https://github.com/MakendranG/InstantReadme
 
 ## File Structure
 
